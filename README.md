@@ -7,3 +7,4 @@
 4. Cree el archivo gitignore
 5. Ahora Cree la rama SantiagoBerdecio
 6. Este es el cambio hecho en la rama SantiagoBerdecio
+7. Tuve un fallo en la autentificacion y no pude anadirte a la reposicion
